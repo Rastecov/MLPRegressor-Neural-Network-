@@ -1,6 +1,9 @@
 # MLPRegressor-Neural-Network-
 This is a multi-layer perceptron neural network that is used to perform regression task on a housing datasets.
 
+Neural Networks for Regression Tasks
+
+Dataset: housing.csv
 
 Report Document: Analysis Questions 
 1. Explain, in your own words, the role of the “max_iter”, “learning_rate_init”, and “alpha” parameters. For each one, explain what effect it has on the learning process if the value of that parameter is increased versus decreased.
